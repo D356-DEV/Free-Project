@@ -10,10 +10,7 @@
 
 
 
-.card-content{
-padding: 16px;
-justify-content: center;
-}
+
 
 
 
@@ -28,7 +25,6 @@ justify-content: center;
 	text-align: center;
 	background-color: white;
 }
-
 
 
 .hr{
